@@ -130,4 +130,22 @@
 | -
 | 3700
 
+| FX30
+| 26
+| APS-C
+| Nice?
+| ##4k120##, footnote:1080p[]
+| optisch
+| -
+| 2300
+
+| FX3
+| 26
+| FullFrame
+| Nice?
+| ##4k120##, footnote:1080p[]
+| optisch
+| -
+| 4700
+
 |===
