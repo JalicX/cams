@@ -2,13 +2,14 @@
 
 
 |===
-| Camera | MPX | Sensor | Menu | Video Max | IBIS | EVF
+| Camera | MPX | Sensor | Menu | Video Max | IBIS | EVF | Price/€
 
 | ##5100##
 | 24.3
 | APS-C
 | Aids
 | 1080p50
+| -
 | -
 | -
 
@@ -19,6 +20,7 @@
 | 4k30, footnote:1080p[1080p120]
 | elek?
 | -
+| 500-600
 
 | ZV-E10 II
 | 26
@@ -27,6 +29,7 @@
 | 4k60, footnote:1080p[]
 | elek?
 | -
+| 1000
 
 | ##6500##
 | 24.2
@@ -35,6 +38,7 @@
 | 4k30, footnote:1080p[]
 | 5-axis
 | x
+| -
 
 | 6700
 | 26
@@ -43,6 +47,7 @@
 | ##4k120##, footnote:1080p[]
 | 5-axis
 | x
+| 1500
 
 | A7M3
 | 24.2
@@ -51,6 +56,7 @@
 | 4k30, footnote:1080p[]
 | 5-axis
 | x
+| 1100
 
 | A7M4
 | 33
@@ -59,6 +65,7 @@
 | 4k60, footnote:1080p[]
 | 5-axis
 | x
+| 2000
 
 | A7R4
 | 61
@@ -67,6 +74,7 @@
 | 4k30, footnote:1080p[]
 | 5-axis
 | x
+| 3500
 
 | A7R5
 | 61
@@ -75,6 +83,7 @@
 | 8k25, 4k60, footnote:1080p[]
 | 5-axis
 | x
+| 3500
 
 | A7S3
 | 12.1
@@ -83,6 +92,7 @@
 | ##4k120##, footnote:1080p[]
 | 5-axis
 | x
+| 3350
 
 | ZV-E1
 | 12.1
@@ -91,6 +101,7 @@
 | 4k60, footnote:1080p[]
 | 5-axis
 | -
+| 2100
 
 | A7C
 | 24.2
@@ -99,6 +110,7 @@
 | 4k30, footnote:1080p[]
 | 5-axis
 | -
+| 1500
 
 | A7C2
 | 33
@@ -107,6 +119,7 @@
 | 4k60, footnote:1080p[]
 | 5-axis
 | -
+| 1875
 
 | A7CR
 | 61
@@ -115,5 +128,6 @@
 | 4k60, footnote:1080p[]
 | 5-axis
 | -
+| 3700
 
 |===
