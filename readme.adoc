@@ -1,0 +1,119 @@
+= Camera Overview
+
+
+|===
+| Camera | MPX | Sensor | Menu | Video Max | IBIS | EVF
+
+| ##5100##
+| 24.3
+| APS-C
+| Aids
+| 1080p50
+| -
+| -
+
+| ZV-E10
+| 24.2
+| APS-C
+| Nice
+| 4k30, footnote:1080p[1080p120]
+| elek?
+| -
+
+| ZV-E10 II
+| 26
+| APS-C
+| Nice
+| 4k60, footnote:1080p[]
+| elek?
+| -
+
+| ##6500##
+| 24.2
+| APS-C
+| Aids
+| 4k30, footnote:1080p[]
+| 5-axis
+| x
+
+| 6700
+| 26
+| APS-C
+| Nice
+| ##4k120##, footnote:1080p[]
+| 5-axis
+| x
+
+| A7M3
+| 24.2
+| Full Frame
+| Aids
+| 4k30, footnote:1080p[]
+| 5-axis
+| x
+
+| A7M4
+| 33
+| Full Frame
+| ?
+| 4k60, footnote:1080p[]
+| 5-axis
+| x
+
+| A7R4
+| 61
+| Full Frame
+| ?
+| 4k30, footnote:1080p[]
+| 5-axis
+| x
+
+| A7R5
+| 61
+| Full Frame
+| ?
+| 8k25, 4k60, footnote:1080p[]
+| 5-axis
+| x
+
+| A7S3
+| 12.1
+| Full Frame
+| Nice
+| ##4k120##, footnote:1080p[]
+| 5-axis
+| x
+
+| ZV-E1
+| 12.1
+| Full Frame
+| Nice
+| 4k60, footnote:1080p[]
+| 5-axis
+| -
+
+| A7C
+| 24.2
+| Full Frame
+| Nice
+| 4k30, footnote:1080p[]
+| 5-axis
+| -
+
+| A7C2
+| 33
+| Full Frame
+| Nice
+| 4k60, footnote:1080p[]
+| 5-axis
+| -
+
+| A7CR
+| 61
+| Full Frame
+| Nice
+| 4k60, footnote:1080p[]
+| 5-axis
+| -
+
+|===
