@@ -67,6 +67,15 @@
 | x
 | 2000
 
+| A7R3
+| 42.4
+| Full Frame
+| Aids
+| 4k30, footnote:1080p[]
+| 5-axis
+| x
+| 1800
+
 | A7R4
 | 61
 | Full Frame
@@ -106,7 +115,7 @@
 | A7C
 | 24.2
 | Full Frame
-| Nice
+| Aids
 | 4k30, footnote:1080p[]
 | 5-axis
 | -
